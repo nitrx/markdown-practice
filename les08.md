@@ -1,8 +1,8 @@
 inline html
 escape
 
-<http://google.com>
+<http://kinmosa.com>
 
-<a href="http://google.com" target="_black">Google</a>
+<a href="http://yuyushiki.net" target="_black">ゆゆ式</a>
 
 \# Title
