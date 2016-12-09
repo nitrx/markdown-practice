@@ -1,4 +1,5 @@
-![
+img
+
 ![ごはん](Aoshima_Syokudo_Ramen.jpg)
 
 ![ごはん][1]
